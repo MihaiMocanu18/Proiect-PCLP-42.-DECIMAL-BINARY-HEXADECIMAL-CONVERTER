@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mihai.mocanu\\.nuget\\packages\\": {}
+    "C:\\Users\\Mokaa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mihai.mocanu\\Proiect-PCLP-42.-DECIMAL-BINARY-HEXADECIMAL-CONVERTER\\Proiect-PCLP-42\\Proiect-PCLP-42\\Proiect-PCLP-42.csproj",
+      "projectUniqueName": "C:\\Users\\Mokaa\\Desktop\\Proiect-PCLP-42.-DECIMAL-BINARY-HEXADECIMAL-CONVERTER\\Proiect-PCLP-42\\Proiect-PCLP-42\\Proiect-PCLP-42.csproj",
       "projectName": "Proiect-PCLP-42",
-      "projectPath": "C:\\Users\\mihai.mocanu\\Proiect-PCLP-42.-DECIMAL-BINARY-HEXADECIMAL-CONVERTER\\Proiect-PCLP-42\\Proiect-PCLP-42\\Proiect-PCLP-42.csproj",
-      "packagesPath": "C:\\Users\\mihai.mocanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mihai.mocanu\\Proiect-PCLP-42.-DECIMAL-BINARY-HEXADECIMAL-CONVERTER\\Proiect-PCLP-42\\Proiect-PCLP-42\\obj\\",
+      "projectPath": "C:\\Users\\Mokaa\\Desktop\\Proiect-PCLP-42.-DECIMAL-BINARY-HEXADECIMAL-CONVERTER\\Proiect-PCLP-42\\Proiect-PCLP-42\\Proiect-PCLP-42.csproj",
+      "packagesPath": "C:\\Users\\Mokaa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mokaa\\Desktop\\Proiect-PCLP-42.-DECIMAL-BINARY-HEXADECIMAL-CONVERTER\\Proiect-PCLP-42\\Proiect-PCLP-42\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mihai.mocanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mokaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
