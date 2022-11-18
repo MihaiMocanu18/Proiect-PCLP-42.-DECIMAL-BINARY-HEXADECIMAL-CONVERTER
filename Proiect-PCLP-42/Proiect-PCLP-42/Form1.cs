@@ -25,5 +25,14 @@ namespace Proiect_PCLP_42
             label9.Text = Convert.ToString(label2, 16);
             label10.Text = Convert.ToString(label2, 8);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label7.Text = "";
+            label8.Text = "";
+            label9.Text = "";
+            label10.Text = "";
+            textBox1.Text = "";
+        }
     }
 }
