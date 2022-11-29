@@ -34,5 +34,11 @@ namespace Proiect_PCLP_42
             label10.Text = "";
             textBox1.Text = "";
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Do you really want to exit?", "Exit application", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Warning) == System.Windows.Forms.DialogResult.Yes)
+                Application.Exit();
+        }
     }
 }
